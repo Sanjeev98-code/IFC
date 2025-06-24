@@ -6,10 +6,10 @@ from datetime import datetime
 from io import BytesIO
 
 # Paths
-CHECKLIST_PATH = "Data/master_checklist.json"
-AUDIT_LOG_PATH = "Data/audit_logs/"
-ASSIGNMENTS_PATH = "Data/assignments.json"
-USERS_PATH = "Data/users.json"
+CHECKLIST_PATH = "data/master_checklist.json"
+AUDIT_LOG_PATH = "data/audit_logs/"
+ASSIGNMENTS_PATH = "data/assignments.json"
+USERS_PATH = "data/users.json"
 
 # Default users
 DEFAULT_USERS = {
